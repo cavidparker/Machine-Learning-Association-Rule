@@ -9,5 +9,5 @@ For instance, if item A and B are bought together more frequently then several s
 2. People who buy one of the products can be targeted through an advertisement campaign to buy the other.
 3. Collective discounts can be offered on these products if the customer buys both of them.
 4. Both A and B can be packaged together.
-5. The process of identifying an associations between products is called association rule mining
+5. The process of identifying an associations between products is called association rule mining.
 
